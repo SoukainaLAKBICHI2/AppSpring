@@ -25,7 +25,7 @@ Elle offre des fonctionnalités pour :
 ## Installation
 1. **Cloner le repository**
 ```bash
-    git clone https://github.com/SoukainaLAKBICHI/HospitalAppSpring.git
+    git clone https://github.com/SoukainaLAKBICHI2/HospitalAppSpring.git
     cd HospitalAppSpring
 ```
 2. **Configurer la base de données**
@@ -71,6 +71,21 @@ HospitalApp/
 - Export des données en PDF/Excel
 - Ajout d'une API REST pour une intégration avec d'autres applications
 ## Demo
+Liste des Patients
+
+![Iliste](src/main/resources/Demo/list.png)
+
+Ajouter Patient
+
+![Iliste](src/main/resources/Demo/Ajouter.png)
+
+Modifier Patient
+
+![Iliste](src/main/resources/Demo/modifier.png)
+
+Supprimer Patient
+
+![Iliste](src/main/resources/Demo/delete.png)
 
 ## Auteur
 Développé par **Soukaina LAKBICHI**
